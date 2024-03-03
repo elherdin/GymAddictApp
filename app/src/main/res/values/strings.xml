@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">GymAddict</string>
+
+    <string name="muscle_name">Nama Otot</string>
+    <string name="description">Deskripsi</string>
+    <string name="muscle_name_ex">Muscle Name</string>
+    <string name="nama_variasi">nama variasi</string>
+    <string name="step">step</string>
+    <string name="share">Share</string>
+    <string name="my_name">Herdinsyah Anhar El Hakim</string>
+    <string name="profile">Profile</string>
+
+    <string-array name="variant_data">
+        <item>Step 1: Position yourself securely on an incline bench, ensuring your feet are firmly planted on the ground and your back is supported by the bench.\n\nStep 2: Engage your core muscles as you slowly lower your upper body towards the bench, maintaining control throughout the movement.\n\nStep 3: Using your abdominal muscles, exhale as you lift your torso back up to the starting position, focusing on contracting your abs at the top of the movement.</item>
+        <item>Step 1: Sit down on the lat pulldown machine, adjusting the thigh pads so they securely hold your legs in place.\n\nStep2: Grasp the bar with a wide grip, ensuring your hands are slightly wider than shoulder-width apart, and pull the bar down towards your chest, focusing on engaging your back muscles.\n\nStep 3: Slowly release the bar back to the starting position, allowing your arms to fully extend, then repeat the movement for your desired number of repetitions, maintaining control and proper form throughout.</item>
+        <item>Step 1: Begin by standing with your feet shoulder-width apart, holding a pair of dumbbells in each hand with a neutral grip (palms facing each other).\n\nStep2: Keeping your elbows close to your body, exhale as you curl the dumbbells upwards towards your shoulders, focusing on contracting your biceps.\n\nStep 3: Inhale as you slowly lower the dumbbells back down to the starting position, maintaining control throughout the movement, then repeat for your desired number of repetitions to effectively target and strengthen your biceps.</item>
+        <item>Step 1: Stand in front of a cable machine with your feet shoulder-width apart and grasp the cable attachment with an overhand grip.\n\nStep 2: Keeping your elbows close to your body, exhale as you push the attachment downwards until your arms are fully extended, focusing on contracting your triceps.\n\nStep 3: Inhale as you slowly return the attachment to the starting position, maintaining control throughout the movement, then repeat for your desired number of repetitions.</item>
+        <item>Step 1: Lie flat on a bench, gripping the barbell slightly wider than shoulder-width apart, with your feet firmly planted on the ground.\n\nStep 2: Lower the barbell towards your chest in a controlled manner, inhaling as you descend, until it almost touches your chest.\n\nStep 3: Exhale as you press the barbell back up to the starting position, fully extending your arms, and repeat for your desired number of repetitions, ensuring proper form and control throughout the movement.</item>
+        <item>Step 1: Sit on a bench with your forearms resting on your thighs, palms facing up, and hold a dumbbell in each hand.\n\nStep 2: Exhale as you curl the dumbbells upwards by flexing your wrists, bringing them towards your body, then inhale as you slowly lower them back down to the starting position, repeating for your desired number of repetitions.</item>
+        <item>Step 1: Stand with your feet shoulder-width apart, holding a dumbbell in each hand by your sides with palms facing your body.\n\nStep 2: Keeping a slight bend in your elbows, exhale as you raise the dumbbells out to the sides until they are parallel to the floor, focusing on using your shoulder muscles.\n\nStep 3: Inhale as you lower the dumbbells back down to the starting position in a controlled manner, then repeat for your desired number of repetitions, maintaining proper form throughout the exercise.</item>
+        <item>Step 1: Begin by assuming a shoulder-width stance, ensuring your posture remains erect and stable.\n\nStep 2: Elevate your heels off the ground by exerting pressure through the balls of your feet, activating your calf muscles.\n\nStep 3: Lower your heels back down slowly and with control, returning to the starting position, then repeat the movement for your desired number of repetitions to effectively target and strengthen your calf muscles.</item>
+        <item>Step 1: Slowly raise the weight by extending both legs upwards to the straightened position.\n\nStep2: Do not jerk the weight up. Hold this position for one second. Slowly lower the weight back to the start position</item>
+        <item>Step 1: Place barbell bar across upper back and stand with your feet hip-width apart.\n\nStep 2: Lower your hips until your things are parallel to the floor. Push back up all the way, pause, then go back down to parallel.\n\nStep 3: Pause again, then return to the start.  </item>
+
+    </string-array>
+
+    <string-array name="data_name">
+        <item>ABS</item>
+        <item>Back</item>
+        <item>Biceps</item>
+        <item>Triceps</item>
+        <item>Chest</item>
+        <item>Forearms</item>
+        <item>Shoulder</item>
+        <item>Calf</item>
+        <item>Front of the Leg</item>
+        <item>Glutes</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Exercise: Incline Bench Sit-Ups</item>
+        <item>Exercise: Lat Pull-Downs</item>
+        <item>Exercise: Hammer Curls</item>
+        <item>Exercise: Push-Downs</item>
+        <item>Exercise: Bench Presses</item>
+        <item>Exercise: Wrist Curls</item>
+        <item>Exercise: Lateral Raises</item>
+        <item>Exercise: Toe Raises</item>
+        <item>Exercise: Leg Extensions</item>
+        <item>Exercise: Squats</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/abs</item>
+        <item>@drawable/back</item>
+        <item>@drawable/biceps</item>
+        <item>@drawable/triceps</item>
+        <item>@drawable/chest</item>
+        <item>@drawable/forearms</item>
+        <item>@drawable/shoulder</item>
+        <item>@drawable/calf</item>
+        <item>@drawable/lowerleg</item>
+        <item>@drawable/glutes</item>
+    </integer-array>
+
+</resources>
