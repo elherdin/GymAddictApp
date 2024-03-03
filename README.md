@@ -10,7 +10,6 @@ Feature that i add to this program is based on Dicoding Criteria:
 - [x] Show image and related Information for the Item in Detail Activity
 - [x] About Activity that contain personal Information about myself such as profile pic, name, and email
 - [x] Added Splash Screen
-- [x] Favorite Button
 - [x] Able to share
 
 Screenshot
